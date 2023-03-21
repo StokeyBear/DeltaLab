@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Audiowide');
-@import url('https://fonts.googleapis.com/css?family=Trirong');
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@500&display=swap');;
 body
     {
     width: 100%;
@@ -13,7 +11,7 @@ body
     }
 
 head {
-  font-family: "Trirong", serif;
+  font-family: "Foundation", serif;
   color: rgba(0, 0, 0, 0.8);
   font-weight: 100200;
   line-height: 1.58;
@@ -23,7 +21,7 @@ head {
 }
 
  body {
-  font-family: 'Lobster', cursive;
+  font-family: 'Foundation', cursive;
   font-weight: 700;
   font-style: normal;
   font-size: 20px;
