@@ -3,9 +3,6 @@ body
     {font-family: "Foundation", serif;
     width: 100%;
     height: 100%;
-    background-image:url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/animal-collage-4-john-rowe.jpg);
-    background-size: cover;
-    background-attachment:fixed;
     margin: 0;
     padding: 0;
     }
@@ -21,7 +18,7 @@ head {
 }
 
  body {
-  font-family: 'Foundation', cursive;
+  font-family: 'Foundation', serif;
   font-weight: 700;
   font-style: normal;
   font-size: 20px;
@@ -31,13 +28,10 @@ head {
   -webkit-font-smoothing: antialiased;
 
 }
+
 body
     {
-    width: 100%;
-    height: 100%;
     background-image:url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/animal-collage-4-john-rowe.jpg);
     background-size: cover;
     background-attachment:fixed;
-    margin: 0;
-    padding: 0;
     }
